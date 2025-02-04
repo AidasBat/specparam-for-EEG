@@ -1,6 +1,6 @@
 # EEG Specparam/fooof pipeline
 
-read fooof https://www.mathworks.com/matlabcentral/fileexchange/6190-abfload](https://fooof-tools.github.io/fooof/
+read fooof https://specparam-tools.github.io/
 
 ## Usage
 - After EEG data preprocessing (in this case EEGlab was used) create a .mat file with average power value of each electrode at certain frequency (this is achieved by applying the Fast Fourier transform and obtaining a PSD plot.
